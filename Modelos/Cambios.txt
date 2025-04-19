@@ -1,0 +1,13 @@
+Cambios:
+
+Se añadió los campos semestre a alumno, grupo, y asignatura
+
+Se añadió un regex para correo y contraseña en alumno 
+
+Se añadió el la relación en cascada de todas las relaciones 
+
+Se añadió el campo inscrito a tabla alumno para tener una bandera de si ya esta inscrito o no
+
+Se añadió el auto incrementable en cada llave primaria
+
+
